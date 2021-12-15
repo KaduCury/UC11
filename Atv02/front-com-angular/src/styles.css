@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700,900");
+
+body { margin: 0px; font-family: 'Montserrat';}
+
+.errorMsg {
+  background-color: red;
+  color: white;
+}
+
+.sucessMsg{
+  background-color: yellowgreen;
+  color: black;
+}

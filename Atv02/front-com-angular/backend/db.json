@@ -1,0 +1,22 @@
+{
+  "casa": [
+    {
+      "nomeCasa": "Casa da Mãe Joana",
+      "enderecoCasa": "Rua das Couves, 123",
+      "qtddPessoas": "2000",
+      "id": 1
+    }
+  ],
+  "cadastro": [
+    {
+      "email": "ale.caetano.2013@hotmail.com",
+      "cpf": "",
+      "nome": "Camila",
+      "dataNasc": "",
+      "telefone": "",
+      "id": 1
+    }
+  ],
+  "compra": [],
+  "evento": []
+}
